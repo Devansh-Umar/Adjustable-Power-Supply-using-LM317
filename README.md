@@ -90,19 +90,20 @@ Most importantly, I became more comfortable with the idea of moving from -
 
 rather than expecting the hardware to behave exactly like the simulation.
 
-## See the Spice Simulation
+
+### See the Spice Simulation
 
 [LTspice_Schematic](Simulation_Stuffs/LTspice_Schematic.png)
 
-## See the Physical Implementation
+### See the Physical Implementation
 
 [Breadboard_Circuit](Physical_Implementation/Breadboard_Circuit.jpeg)
 
-## See the Video Results (Due to limitations of GitHub, you've to download it first)
+### See the Video Results (Due to limitations of GitHub, you've to download it first)
 
 [Video_Results](Physical_Implementation/Video_Results)
 
-## See the full Project Report to understand more
+### See the full Project Report to understand more
 
 [Adjustable_Power_Supply_Report](Adjustable_Power_Supply_Report.pdf)
 
