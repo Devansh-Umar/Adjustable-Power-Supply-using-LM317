@@ -3,7 +3,7 @@
 
 This project is the second stage of my power-supply project series. The first stage was -
 
-[5V Regulated Power Supply using LM7805]()
+[5V Regulated Power Supply using LM7805](https://github.com/Devansh-Umar/5V-Regulated-Power-Supply-using-LM7805)
 
 
 After building a fixed 5V regulated supply, I wanted to understand how the output voltage could be made adjustable instead of being fixed to a single value.
