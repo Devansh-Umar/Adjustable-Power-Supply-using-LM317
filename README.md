@@ -1,4 +1,4 @@
-# Understanding How Adjustable Power Supply Works Using LM317 IC
+# Understanding how Adjustable Power Supply works by using LM317 IC
 
 
 This project is the second stage of my power-supply project series. The first stage was -
@@ -89,3 +89,22 @@ Most importantly, I became more comfortable with the idea of moving from -
 ***Theory → Simulation → Hardware → Unexpected Result → Troubleshooting → Understanding***
 
 rather than expecting the hardware to behave exactly like the simulation.
+
+## See the Spice Simulation
+
+[LTspice_Schematic](Simulation_Stuffs/LTspice_Schematic.png)
+
+## See the Physical Implementation
+
+[Breadboard_Circuit](Physical_Implementation/Breadboard_Circuit.jpeg)
+
+## See the Video Results (Due to limitations of GitHub, you've to download it first)
+
+[Video_Results](Physical_Implementation/Video_Results)
+
+## See the full Project Report to understand more
+
+[Adjustable_Power_Supply_Report](Adjustable_Power_Supply_Report.pdf)
+
+## If you find this project useful, a star ⭐ on my repository would be memorable for me.
+
